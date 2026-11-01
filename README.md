@@ -334,4 +334,4 @@ For questions, suggestions or feedback, please open an issue in this GitHub repo
 
 ---
 
-**LearnFlex — Your learning journey, your pace. 📚**
+**LearnFlex — Your learning journey, your pace.**
