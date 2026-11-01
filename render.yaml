@@ -1,13 +1,10 @@
+
 services:
   - type: web
     name: learnflex-saathi
     runtime: docker
-    plan: starter
+    plan: free
     healthCheckPath: /api/health
-    disk:
-      name: learnflex-data
-      mountPath: /var/data
-      sizeGB: 1
     envVars:
       - key: NODE_ENV
         value: production
