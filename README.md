@@ -1,10 +1,10 @@
 
-# LearnFlex Saathi 
+# LearnFlex 
 ### Making learning easier, smarter, and more personal.
 
 ## Description
 
-LearnFlex Saathi is a browser-based adaptive learning platform designed for students studying in CBSE Classes 6–10.
+LearnFlex is a browser-based adaptive learning platform designed for students studying in CBSE Classes 6–10.
 
 The project brings together NCERT-based curriculum content, chapter-wise lessons, practice questions, adaptive learning activities, and student progress tracking in one place.
 
@@ -334,4 +334,4 @@ For questions, suggestions or feedback, please open an issue in this GitHub repo
 
 ---
 
-**LearnFlex Saathi — Your learning journey, your pace. 📚**
+**LearnFlex — Your learning journey, your pace. 📚**
